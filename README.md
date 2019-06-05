@@ -1,7 +1,5 @@
 # Lab6
 
-[![Build Status](https://travis-ci.org/Zhdanboro/Lab6.svg?branch=master)](https://travis-ci.org/Zhdanboro/Lab6)
-
 Часть 1: Разделить коллекцию на две. В первой должны быть только положительные элементы,
 а во второй только отрицательные.
 
